@@ -1,1 +1,1 @@
-in this repository i have included various machine kearning algorithms to solve real world problems.
+in this repository i have included various machine learning algorithms to solve real world problems.
